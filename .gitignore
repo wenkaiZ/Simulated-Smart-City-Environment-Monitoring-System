@@ -1,0 +1,12 @@
+# Ignore the .class files.
+*.class
+
+# Ignore the build folder.
+build/
+dist/
+
+# System file
+.DS_Store
+
+# Ignore .csv
+*.csv
